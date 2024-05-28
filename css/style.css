@@ -98,8 +98,10 @@ body {
 }
 
 .navbar #logo img {
-  display: block;
-  width: 40px;
+  display: flex;
+  padding-top: 7%;
+  width: 80%;
+  height: 80%;
 }
 
 .navbar .btn {
